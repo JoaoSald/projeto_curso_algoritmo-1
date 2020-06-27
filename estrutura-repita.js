@@ -1,18 +1,3 @@
-/*
- sairLoop: caractere
-  valor01, valor02: inteiro
-
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
- repita
-     escreva("digite o primeiro valor: ")
-     leia(valor01)
-     escreva("digite o segundo valor: ")
-     leia(valor02)
-     escreva("resultado: ", valor01 + valor02)
-     escreva("deseja sair? S/N: ")
-     leia(sairLoop)
- ate sairLoop <> "N"
 
 */
 function acaoBotao(){
